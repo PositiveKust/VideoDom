@@ -1,0 +1,55 @@
+@import "header_and_footer.css";
+@import "compilation_video.css";
+
+.main-video-block{
+	position: absolute;
+	z-index: 1;
+	margin-left: 2%;
+	margin-top: -20px;
+	height: 20%;
+	width: 70%;
+}
+.like-dislike{
+	flex-direction: row-reverse;
+	margin-left:20%;
+	display: flex;
+	width: 80%;
+}
+.like{
+	display: flex;
+	width: 25%;
+	height:100%;
+	padding-left: 20px;
+}
+.button-quantity{
+	margin-left: 20px;
+}
+.dislike{
+	display: flex;
+	width: 25%;
+	height:100%;
+	padding-left: 20px;
+}
+.example {
+	margin-top:0px;
+    width: 90%;
+    height: 100%;
+	border-top: 2px solid gray;
+    border-bottom: 2px solid gray; /* рамка 25px */
+    padding: 5px;              /* поля 20px */
+    overflow: auto;             /* прокрутка */
+}
+#main-video{
+	width: 95%;
+	height: 100%;
+}
+@media screen and (max-width: 791px) {
+	.main-video-block{
+		position: absolute;
+		z-index: 1;
+		margin-left: 2%;
+		margin-top: 20px;
+		height: 40%;
+		width: 95%;
+	}
+}

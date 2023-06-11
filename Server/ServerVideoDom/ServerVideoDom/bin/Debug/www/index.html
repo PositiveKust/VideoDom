@@ -1,0 +1,166 @@
+<!DOCTYPE html> 
+<HTML lang="ru">
+    <HEAD>
+		<meta charset="UTF-8">
+        <title>ВидеоДом</title>
+		<link rel="stylesheet" href="css/main_video.css" type="text/css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="js/mainpagejs.js"></script>
+		<script src="js/searchjs.js"></script>
+    </HEAD>
+    <BODY>
+        <header class="flex-0 search-and-Loading-video-block">
+			<a href="index.html"><img class="image-link" id="main-link" src="img/Домик.jpg">
+				<font size="5" color="blackblue" face="Arial">В</font>идео<font size="5" color="red" face="Arial">Д</font>ом
+			</a>
+			<div class="search-video-block">
+				<input type="text" autocomplete="off" placeholder="Название видео" id="searching-video">
+				<a><input type="image" src="img/Лупа.png"" alt="Найти" class="find image-link" id="search-loop"></a>
+			</div>
+			<a href="#upload_video" class="tab tab-first upload_video" id="button-upload-video">Загрузить видео</a>
+		</header>
+		<main class="flex-1">
+			<div class="hidden upload_video" id="upload_video">
+				<form enctype="multipart/form-data" method="post" class="upload_video_form">
+				   <p><h1>Загрузка видео на сервер</h1></p>
+				   <p><input type="text" autocomplete="off" placeholder="Название видео" maxlength="32" id="name-upload-video"></p>
+				   <p><input type="text" autocomplete="off" placeholder="Автор виде видео" maxlength="16" id="autor-upload-video"></p>
+				   <p><textarea cols="40" rows="5" placeholder="Описание к видео" maxlength="256" id="description-upload-video"></textarea></p>
+				   <p><h3>Выберите требуемый видеофайл с расширением .mp4: </h3><input type="file" name="video" accept="video/mp4" id="uploading-video"></p>
+				   <p><h3>Выберите изображение, служащее постером к видео, с расширением .png: </h3>
+				   <input type="file" name="poster" accept="image/png" id="poster-uploading-video"></p>
+				   <input type="submit" value="Подтвердить загрузку видео" class="tab tab-first upload_video" id="button-submit-upload-video"></p>
+				</form>
+			</div>
+			<div class="video-block">
+				<div class="main-video-block">
+					<p>
+						<video id="main-video" controls="controls" loop mote>
+							<source src="video/2.mp4">
+						</video>
+					</p>
+					<div class="like-dislike">
+						<div class="like">
+							<div id="quantity-like">
+								0	
+							</div>
+							<button class="button-quantity" id="button-quantity-like">
+								Нравки
+							</button>
+						</div>
+						<div class="dislike">
+							<div id="quantity-dislike">
+								0	
+							</div>
+							<button class="button-quantity" id="button-quantity-dislike">
+								Злючки
+							</button>
+						</div>
+					</div>
+					<p id="name-video-string">
+						Видео z1
+					</p>
+					<p id="autor-video-string">
+						Autor z1
+					</p>Описание
+					<p class="example" id="description-video-text">  
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+						test;text;test;text;test;text;test;text;test;text;
+					</p>
+				</div>
+				<div class="video-block-compilation">
+					<a class="video-block-compilation-video" href="index.html?video_id=1">
+						<video class="video-in-compilation-video">
+							<source src="video/1.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 1<br>
+						Autor 1
+					</a>
+					<a class="video-block-compilation-video" href="index.html?video_id=2">
+						<video class="video-in-compilation-video">
+							<source src="video/2.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 2<br>
+						Autor 1
+					</a>
+					<a class="video-block-compilation-video" href="index.html?video_id=3">
+						<video class="video-in-compilation-video">
+							<source src="video/3.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 3<br>
+						Autor 2
+					</a>
+					<a class="video-block-compilation-video" href="index.html?video_id=4">
+						<video class="video-in-compilation-video">
+							<source src="video/4.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 4<br>
+						Autor 3
+					</a>
+					<a class="video-block-compilation-video" href="index.html?video_id=5">
+						<video class="video-in-compilation-video">
+							<source src="video/5.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 5<br>
+						Autor 3
+					</a>
+					<a class="video-block-compilation-video" href="index.html?video_id=6">
+						<video class="video-in-compilation-video">
+							<source src="video/6.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 6<br>
+						Autor 2
+					</a>
+					<a class="video-block-compilation-video" href="index.html?video_id=7">
+						<video class="video-in-compilation-video">
+							<source src="video/7.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 7<br>
+						Autor 2
+					</a>
+					<a class="video-block-compilation-video" href="index.html?video_id=8">
+						<video class="video-in-compilation-video">
+							<source src="video/8.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 8<br>
+						Autor 1
+					</a>
+					<a class="video-block-compilation-video" href="index.html?video_id=9">
+						<video class="video-in-compilation-video">
+							<source src="video/9.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 9<br>
+						Autor 4
+					</a>
+					<a class="video-block-compilation-video" href="index.html?video_id=10">
+						<video class="video-in-compilation-video">
+							<source src="video/10.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+						</video>
+						Video 10<br>
+						Autor 4
+					</a>
+				</div>
+			</div>
+		</main>
+		<footer class="flex-0 information-block">
+			<h4>
+				&copy; Санкт-Петербургский государственный 
+				технологический институт (технический университет)
+			</h4>
+		</footer>
+		
+	</BODY>
+</HTML>

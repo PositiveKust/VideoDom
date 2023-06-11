@@ -1,0 +1,34 @@
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\BDVideos.db
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\ServerVideoDom.exe.config
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\ServerVideoDom.exe
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\ServerVideoDom.pdb
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\EntityFramework.dll
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\EntityFramework.xml
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.csproj.AssemblyReference.cache
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.csproj.CoreCompileInputs.cache
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.csproj.CopyComplete
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.exe
+C:\Users\Kust\Desktop\Студенту\Интернет-технологии 6 сем\Курсовая работа\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.pdb
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\BDVideos.db
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\ServerVideoDom.exe.config
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\ServerVideoDom.exe
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\ServerVideoDom.pdb
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\EntityFramework.dll
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\EntityFramework.xml
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.csproj.AssemblyReference.cache
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.csproj.CoreCompileInputs.cache
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.csproj.CopyComplete
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.exe
+C:\Users\Kust\Desktop\Курсовая работа по интернет технологиям\Видеодом\Сервер\ServerVideoDom\ServerVideoDom\obj\Debug\ServerVideoDom.pdb
